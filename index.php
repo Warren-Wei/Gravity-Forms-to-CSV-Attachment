@@ -4,7 +4,7 @@ Plugin Name: Gravity Forms to CSV Attachment
 Description: Plugin to attach .csv file to notification email
 Plugin URI: https://wordpress.org/
 Author URI: https://wordpress.org/
-Author: Mark Huynh
+Author: Mark Huynh, Warren Wei
 License: Public Domain
 Version: 1.0
 */
